@@ -33,7 +33,7 @@ class TestCase(unittest.TestCase):
 
     def testSpecialCharacterRequirement(self):
         self.assertFalse(check_pwd("Mm8qNn9QOo0rPp1R"))
-        
+
 
 if __name__ == '__main__':
     unittest.main()
