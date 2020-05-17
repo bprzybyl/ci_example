@@ -1,6 +1,6 @@
 # Brooks Przybylek
 # CS_362_C400_S2020 A2: TDD Hands On
-# 05/12/2020
+# 05/17/2020
 #
 # This testing suite is meant to test the following requirements:
 #   check_pwd accepts a string and returns True if it meets the criteria
